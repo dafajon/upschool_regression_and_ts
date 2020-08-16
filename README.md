@@ -12,4 +12,4 @@ in the root directory.
 
 For part 4 of the demo. Download dataset from [Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) to ```data```directory. 
 
-![]('resources/st_run.gif')
+![run]('resources/st_run.gif')

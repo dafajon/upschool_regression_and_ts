@@ -1,6 +1,6 @@
 ### Linear Regression and Time Series Streamlit Demo
 
-This demo is a part of Time Series Lectures from UPSchool Data Science Course.
+This demo is a part of Time Series Lectures from **UPSchool Data Science Course**.
 
 `pip install -r requirements.txt`
 

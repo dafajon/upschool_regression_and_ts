@@ -10,6 +10,6 @@ In order to run the demo
 
 in the root directory.
 
-For part 4 of the demo. Download dataset from [Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) to ```data```directory. 
+[Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) link to dataset in ```data```directory used in final part. 
 
 ![run](resources/st_run.gif)
